@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class SistemaBancario {
 
 	public static void main(String[] args) {
-		// Polimorfismo (assumir várias formas)
+		
 		ContaCorrente c1 = new ContaCorrente();
 		ContaPoupanca cp1 = new ContaPoupanca();
 		
